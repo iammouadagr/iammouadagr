@@ -11,9 +11,7 @@ Full Stack developer
 ![](https://camo.githubusercontent.com/4d627d4da4adf0fd509f0db2d83523bfb582d66831b1dcfc07fd598ff1759fdc/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d66616b6972692d69736d61696c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
 
-*   ### Skills
-
-* Stacks
+*   ### Stacks
 
 <p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -38,7 +36,9 @@ Full Stack developer
                                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
-* Devops 
+### Devops
+
+
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
