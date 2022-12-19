@@ -6,6 +6,9 @@ Full Stack developer
 
 *   🌍  I'm based in Avignon, France
 *   ✉️  You can contact me at [moaguirar@gmail.com](mailto:moaguirar@gmail.com)
+
+https://camo.githubusercontent.com/4d627d4da4adf0fd509f0db2d83523bfb582d66831b1dcfc07fd598ff1759fdc/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d66616b6972692d69736d61696c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+
 *   ### Skills
 <p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -32,4 +35,4 @@ Full Stack developer
                  
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/iammouadagr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/iammouadagr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mouad-aguirar-38931b210/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MouadAguirar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/iammouadagr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mouad-aguirar-38931b210/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MouadAguirar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
