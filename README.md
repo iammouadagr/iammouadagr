@@ -1,10 +1,10 @@
-Hi 👋 Mouad Aguirar 23 years old
+Hi 👋 Mouad Aguirar 25 years old
 ==============================
 
 Full Stack developer
 --------------------
-*   🖥️  Currently, I'm an apprentice as Java Developer at Atos Montpellier
-*   🌍  I'm based in Avignon, France
+*   🖥️  Currently, I'm a Software Engineer 
+*   🌍  I'm based in Montpellier, France
 *   ✉️  You can contact me at [moaguirar@gmail.com](mailto:moaguirar@gmail.com)
 
 
