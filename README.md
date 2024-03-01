@@ -1,9 +1,8 @@
 Hi 👋 Mouad Aguirar 25 years old
 ==============================
 
-Full Stack developer
---------------------
-*   🖥️  Currently, I'm a Software Engineer 
+
+*   🖥️  Currently, I'm a junior Software Engineer 
 *   🌍  I'm based in Montpellier, France
 *   ✉️  You can contact me at [moaguirar@gmail.com](mailto:moaguirar@gmail.com)
 
