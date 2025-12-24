@@ -2,7 +2,7 @@ Hi 👋 I'm Mouad 26 years old
 ==============================
 
 
-*   🖥️  Currently, I'm a mid-lever Software Engineer 
+*   🖥️  Currently, I'm a mid-level Software Engineer 
 *   🌍  I'm based in Montpellier, France
 *   ✉️  You can contact me at [moaguirar@gmail.com](mailto:moaguirar@gmail.com)
 
